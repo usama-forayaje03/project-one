@@ -1,0 +1,194 @@
+@media (max-width: 326.98px) {
+    .navbar{
+        min-width: 95%;
+    }
+    .banner{
+        padding: 50px 0;
+        h1{
+            font-size: 70px;
+        }
+        h3{
+            font-size: 16px;
+        }
+        p{
+            font-size: 14px;
+        }
+        hr {
+            width: 100px!important;
+            color: rgb(252, 1, 1);
+            transform: scaleY(3);
+        }
+    }
+
+    .best-food{
+        margin: 40px 0 10px;
+        h2{
+            font-size: 16px;
+            line-height: 0;
+            margin-top: 30px;
+        }
+        .best-food-text{
+            .about-best-food
+            p{
+                font-size: 6px;
+                margin-bottom: 5px;
+                padding: 0;
+                line-height: 10px;
+            }
+            button{
+                font-size: 7px;
+                line-height: 15px;
+                padding: 0 5px;
+                margin-bottom: 7px;
+            }
+            .breakfast-time{
+                display: flex;
+                padding-bottom: 12px;
+                div{
+                    width: 33%;
+                }
+                strong{
+                    display: block;
+                    font-size: 14px;
+                }
+                p{
+                    font-size: 8px;
+                    margin-bottom: 0;
+                    padding-right: 30px;
+                }
+            }
+        }
+
+    }
+    .spacial-menu    
+        h2{
+            margin-top: 30px;
+            font-size: 35px;
+            line-height: 20px;
+        }
+        .menu-list{
+            width: 95%;
+            margin-left: 3px;
+            ul{
+                li{
+                    a{
+                        font-size: 4px;
+                        margin: 0 !important;
+                    }
+                }
+            }
+        }
+        .spacial-food{
+            .price{
+                width: 60%;
+                font-size: 7px;
+                top: 184px;
+            }
+            .food-about{
+                h4{
+                    margin-top: 10px;
+                    font-size: 14px;
+                    line-height: 0;
+                    padding-left: 60px !important;
+                }
+            .food-quantity{
+                padding-left: 10px;
+                margin-left: 7px;
+                span{
+                    font-size: 9px;
+                    padding: 0;
+                }
+                i{
+                    font-size: 9px;
+                    padding: 0;  
+                }
+
+            }
+            button {
+                margin: 5px 30px 10px 30px;
+                font-size: 8px;
+                padding: 0  70px 8px 70px ;
+                strong {
+                font-size: 9px;
+                }
+                i {
+                    font-size: 9px;
+                  }
+            }
+        }
+    
+    }
+    .private-table{
+        padding: 10px 15px;
+        .lorem{
+            h2{
+                font-size: 25px !important;
+                line-height: 30px;
+            }
+            p {
+                font-size: 9px;
+            }
+            .breacfast-time{
+                padding-bottom: 30px;
+                .breacfast-time-all{
+                    strong {
+                        line-height: 0 !important;
+                        font-size: 8px !important;
+                        margin: 0;
+                      }
+                      span {
+                        font-size: 7px;
+                      }
+                }
+            }
+        }
+    }
+    .food-gallery{
+        h2{
+            font-size: 40px;
+            margin-top: 30px;
+        }
+        .food-img{
+            width: 100%;
+            margin: 0;
+            padding: 10px;
+        }
+        .gallery-first-img{
+            margin-bottom: 15px;
+            .border-text {
+                display: none;
+              }
+        }
+    }
+    .footer{
+        .main-footer{
+            padding: 10px 20%;
+        }
+        h6{
+            font-size: 27px;
+            margin: 0px;
+        }
+        p{
+            font-size: 15px !important;
+            margin: 0;
+        }
+        .fast-i-list{
+            margin-bottom: 20px;
+        }
+        .contact-info{
+            
+            .contact{
+                
+                a{
+                    i{
+                        font-size: 10px;
+                    top: 10px;
+                    }
+                }
+            }
+            
+        }
+    }
+}
+
+    
